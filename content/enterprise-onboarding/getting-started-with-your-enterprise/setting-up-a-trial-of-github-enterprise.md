@@ -1,4 +1,4 @@
----
+i---
 title: Setting up a trial of GitHub Enterprise
 intro: 'Understand what is included in the {% data variables.product.prodname_ghe_cloud %} trial, and how to get started.'
 versions:
